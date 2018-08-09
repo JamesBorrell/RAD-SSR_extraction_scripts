@@ -1,4 +1,5 @@
-## pipeline plan
+## PIPELINE PLAN
+## 
 ### 1. Define the repeat motifs you would like to search for, simple bialleleic repeats are a good place to start.
 ### 2. Search for RAD tags that contain these motifs
 ### 3. Filter the selected tags to retain the best candidates. For example, those present in many individuals and without repeats at the beginning and end of the read etc.
