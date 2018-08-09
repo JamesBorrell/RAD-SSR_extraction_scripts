@@ -1,6 +1,6 @@
-# RAD-SSR_extraction_scripts
-# 9/8/2018 CURRENTLY BEING UPDATED
-# Come back soon for a full reproducable example
+## RAD-SSR_extraction_scripts
+## 9/8/2018 CURRENTLY BEING UPDATED
+## Come back soon for a full reproducable example
 
 # libraries
 library(gdata)
